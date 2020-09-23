@@ -1,0 +1,6 @@
+Kill ComboBox Dupes v1.0
+^^^^^^^^^^^^^^^^^^^^^^^^
+By : Rudy Alex Kohn [rudyalexkohn@hotmail.com]
+(C)2001, Rudy Alex Kohn
+Securely removes duplicate entries from a combo box.
+
